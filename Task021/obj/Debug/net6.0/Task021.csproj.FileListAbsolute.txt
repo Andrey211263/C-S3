@@ -1,0 +1,15 @@
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\obj\Debug\net6.0\Task021.csproj.AssemblyReference.cache
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\obj\Debug\net6.0\Task021.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\obj\Debug\net6.0\Task021.AssemblyInfoInputs.cache
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\obj\Debug\net6.0\Task021.AssemblyInfo.cs
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\obj\Debug\net6.0\Task021.csproj.CoreCompileInputs.cache
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\bin\Debug\net6.0\Task021.exe
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\bin\Debug\net6.0\Task021.deps.json
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\bin\Debug\net6.0\Task021.runtimeconfig.json
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\bin\Debug\net6.0\Task021.dll
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\bin\Debug\net6.0\Task021.pdb
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\obj\Debug\net6.0\Task021.dll
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\obj\Debug\net6.0\refint\Task021.dll
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\obj\Debug\net6.0\Task021.pdb
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\obj\Debug\net6.0\Task021.genruntimeconfig.cache
+G:\Мои документы\Home\Обучение\Семинары\Семинар_2508\Task021\obj\Debug\net6.0\ref\Task021.dll
